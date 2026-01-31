@@ -176,7 +176,7 @@ Notebooks are designed to be run **top-to-bottom** and **in order**, unless stat
 
 ---
 
-### **Stage 7 — Persona Probability Generation**
+### **Stage 6 — Persona Probability Generation**
 
 📓 `07_Generate_Persona_Probabilities.ipynb`
 
@@ -249,16 +249,6 @@ This UI allows immediate exploration of:
 
 1. Run notebooks in order (Stage 0 → Stage 7)
 2. Open **UI Option 1 — DBFS UI**
-
----
-
-## 📊 Key Design Principles
-
-* No manual labels
-* No data leakage
-* Deterministic preprocessing
-* Weak supervision validated by ML
-* Enrichment impact verified via ablation
 
 ---
 
