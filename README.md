@@ -226,6 +226,7 @@ This UI allows immediate exploration of:
 * Country / city filtering
 * Ranked hotel recommendations
 
+---
 
 ## ✅ How to Run (Recommended)
 
