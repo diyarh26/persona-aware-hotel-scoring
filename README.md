@@ -217,8 +217,6 @@ Notebooks are designed to be run **top-to-bottom** and **in order**, unless stat
   1. Pasting the **SAS token** provided by course staff
   2. Clicking **Run All**
 
-**Input file (course storage):**
-`abfss://submissions@lab94290.dfs.core.windows.net/<group_folder>/ui_sample_hotels.csv`
 
 This UI allows immediate exploration of:
 
