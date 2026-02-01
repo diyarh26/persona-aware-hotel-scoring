@@ -228,7 +228,7 @@ This UI allows immediate exploration of:
 
 ---
 
-## ✅ How to Run (Recommended)
+## ✅ How to Run 
 
 **Fastest evaluation path:**
 
