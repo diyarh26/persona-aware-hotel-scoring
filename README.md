@@ -226,15 +226,6 @@ This UI allows immediate exploration of:
 * Country / city filtering
 * Ranked hotel recommendations
 
----
-
-## 🔐 Authentication & Security
-
-* **No SAS tokens are stored in Git**
-* Token must be pasted manually in UI notebooks
-* All paths are reproducible on the course environment
-
----
 
 ## ✅ How to Run (Recommended)
 
